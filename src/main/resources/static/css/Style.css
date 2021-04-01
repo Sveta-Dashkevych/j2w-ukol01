@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+    color: darkblue;
+}
+div {
+    text-shadow: 2px 2px 5px darkblue;
+    font-family: "Brush Script MT";
+    font-size: 170%;
+}
